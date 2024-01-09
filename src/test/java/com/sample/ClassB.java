@@ -6,5 +6,10 @@ public class ClassB {
 		System.out.println("Java");
 
 	}
+	
+	private void python() {
+		System.out.println("Python");
+
+	}
 
 }
